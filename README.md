@@ -1,8 +1,4 @@
-Berikut adalah **README.md lengkap** yang sudah disesuaikan dengan project kamu (Healthcare Data Warehouse + OLAP Atoti + PostgreSQL + Star Schema + Optimization):
 
----
-
-```md
 # Healthcare Data Warehouse & OLAP Analysis
 
 ## 📊 Project Overview
